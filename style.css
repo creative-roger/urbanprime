@@ -165,7 +165,7 @@ ul, ol { list-style: none; }
 .hero-annotation { position:absolute; z-index:20; background:rgba(8,8,8,0.52); backdrop-filter:blur(16px); -webkit-backdrop-filter:blur(16px); border:1px solid rgba(255,255,255,0.10); border-radius:var(--radius-md); padding:14px 18px; max-width:200px; font-size:11.5px; color:rgba(255,255,255,0.78); line-height:1.55; transition:var(--transition-fast); }
 .hero-annotation:hover { border-color:rgba(40,167,69,0.35); background:rgba(10,10,10,0.75); }
 .annotation-dot { width:7px; height:7px; border-radius:50%; position:absolute; animation:pulse 2.2s ease-in-out infinite; left: -2px; top: 18px; }
-.hero-annotation-1 { bottom:34%; left:5%; animation: revealIn 0.8s ease backwards 1.2s; }
+.hero-annotation-1 { bottom:34%; Right:5%; animation: revealIn 0.8s ease backwards 1.2s; }
 .hero-annotation-1 .annotation-dot { background: var(--primary); }
 .hero-annotation-2 { top:44%; right:5%; animation: revealIn 0.8s ease backwards 1.4s; }
 .hero-annotation-2 .annotation-dot { background: var(--accent); }
